@@ -1,6 +1,4 @@
-## 中文
-
-聚酰亚胺设计智能体 v1.0.0 — Windows 在线安装版
+# 聚酰亚胺设计智能体 v1.0.0 — Windows 在线安装版
 
 ### 主要功能
 - 通过自然语言进行聚酰亚胺生成、性能预测和计算任务管理。
@@ -32,9 +30,7 @@ Holy Yang（杨宏利）
 
 ---
 
-## English
-
-Polyimide Design Agent v1.0.0 — Windows Online Installer
+# Polyimide Design Agent v1.0.0 — Windows Online Installer
 
 ### Features
 - Polyimide generation, property prediction, and computational task management through natural-language interaction.
