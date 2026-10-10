@@ -12,7 +12,7 @@ Download the application from [Releases](https://github.com/Hongli-Yang-99/Polyi
 
 ## 开发者 / Developer
 
-Holy Yang（杨宏利）
+杨宏利（Holy Yang）
 
 中国科学院长春应用化学研究所 · 高分子数智科学课题组  
 Changchun Institute of Applied Chemistry, Chinese Academy of Sciences
