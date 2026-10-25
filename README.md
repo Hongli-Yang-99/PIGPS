@@ -1,8 +1,8 @@
-# Polyimide Design Agent · 聚酰亚胺设计智能体
+# PIGPS：聚酰亚胺自主探索设计智能体
+## PIGPS(Polyimide Generate-Predict-Simulate Agent)
+PIGPS 是面向聚酰亚胺（Polyimide, PI）材料设计与性能优化的自主探索设计智能体。用户设定目标性能后，智能体可自主调用材料生成、性能预测与模拟计算工具，开展候选结构生成、性能评估、筛选与验证，辅助实现聚酰亚胺的定向设计。
 
-聚酰亚胺设计智能体是一款可本地部署的科研辅助软件，通过自然语言调用生成模型、性能预测模型和模拟计算工具，实现“生成—预测—计算验证”的闭环设计流程。支持中文和英文界面。
-
-Polyimide Design Agent is a locally deployable research application that connects generation models, property prediction models, and simulation tools through natural-language interaction, supporting a generation–prediction–computational validation workflow. Chinese and English interfaces are available.
+PIGPS is an autonomous exploration and design agent for polyimide (PI) material design and property optimization. After the user specifies target properties, the agent can autonomously invoke material generation, property prediction, and computational simulation tools to generate, evaluate, screen, and validate candidate structures, assisting in the targeted design of polyimides.
 
 ## 下载与安装 / Download and Installation
 
