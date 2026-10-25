@@ -19,4 +19,3 @@ Changchun Institute of Applied Chemistry, Chinese Academy of Sciences
 
 联系邮箱 / Contact:
 - holyyoung@ciac.ac.cn
-- yanghli9919@gmail.com
